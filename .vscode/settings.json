@@ -1,0 +1,12 @@
+{
+  "prettier.singleQuote": true,
+  "json.validate.enable": false,
+  "json.schemaDownload.enable": true,
+  "json.schemas": [
+
+  ]
+};
+"emmet.includesLanguages" :{
+  "javascript":"javascriptreact"
+}
+
